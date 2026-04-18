@@ -32,3 +32,11 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Java heap dumps
+java_pid*.hprof
+*.hprof
+
+# Java heap dumps
+*.hprof
+java_pid*.hprof
