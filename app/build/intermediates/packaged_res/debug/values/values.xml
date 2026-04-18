@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="gold_dark">#996515</color>
+    <color name="gold_light">#F9E79F</color>
+    <color name="gold_primary">#D4AF37</color>
+    <color name="grey_dark">#1A1A1A</color>
+    <color name="grey_light">#F5F5F5</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Barbearia Premium</string>
+    <string name="gcm_defaultSenderId" translatable="false">127523397075</string>
+    <string name="google_api_key" translatable="false">AIzaSyCVUscfH4-5De_pbKOM0L4EeRTWp295ytY</string>
+    <string name="google_app_id" translatable="false">1:127523397075:android:3a311c9ce2999dcf90a326</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCVUscfH4-5De_pbKOM0L4EeRTWp295ytY</string>
+    <string name="google_storage_bucket" translatable="false">barbearia-premium-7c7dd.firebasestorage.app</string>
+    <string name="project_id" translatable="false">barbearia-premium-7c7dd</string>
+    <style name="Theme.BarbeariaPremium" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/gold_primary</item>
+        <item name="colorSecondary">@color/gold_dark</item>
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:statusBarColor">@color/black</item>
+    </style>
+</resources>

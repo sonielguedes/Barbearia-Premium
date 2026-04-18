@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.barbeariapremium.app-merged_res-5:/layout_fragment_welcome.xml.flat",
+        "source": "com.barbeariapremium.app-main-7:/layout/fragment_welcome.xml"
+    },
+    {
+        "merged": "com.barbeariapremium.app-merged_res-5:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.barbeariapremium.app-main-7:/drawable/ic_launcher_foreground.xml"
+    }
+]
